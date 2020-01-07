@@ -1,0 +1,25 @@
+logistic regression				
+				
+scaling				
+normalisation				
+				
+				
+				
+replacing missing values with mean value is not the best MICE				
+mean or median				
+				
+Distribution	long tail distribution use mean values +* 1 or 2 sd			
+Histogram				
+				
+Dimentionality reduction				
+correlation drop some columns				
+				
+				
+too many missing values				
+34,35,36,41, 45,68, 93
+
+93
+35, 41,68
+
+
+34, 35, 41, 45,68
