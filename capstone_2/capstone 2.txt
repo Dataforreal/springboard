@@ -1,4 +1,0 @@
-Data Wrangling
-timeseries analysis decomposition
-arma
-arima
