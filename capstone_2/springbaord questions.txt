@@ -1,0 +1,6 @@
+
+How to determine m? 12? 52? 260, 365?
+
+Why is computer crashing at higher m?
+
+Why is my curve not showing the seasonality of the chart?
